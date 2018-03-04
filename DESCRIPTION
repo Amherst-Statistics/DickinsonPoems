@@ -1,0 +1,11 @@
+Package: DickinsonPoems
+Type: Package
+Title: Ingest Emily Dickinson poems (using Project Gutenberg)
+Version: 0.1.0
+Author: Nicholas Horton
+Maintainer: The package maintainer <nicholasjhorton AT gmail.com>
+Description: Ingest the poems of Emily Dickinson (original edition
+    available for public access from Project Gutenberg)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
