@@ -1,4 +1,5 @@
 \name{list_poems}
+\alias{list_poems}
 \title{List available Emily Dickinson poems}
 \usage{
 list_poems()

@@ -1,4 +1,5 @@
 \name{get_poem}
+\alias{get_poem}
 \title{Get a specific Emily Dickinson poem}
 \usage{
 get_poem(poem)
