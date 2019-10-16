@@ -28,7 +28,7 @@ n <- length(files)
      
 randnum <- sample(1:n, 1) 
 lines <- readLines(paste(files[randnum], sep=""))
-     for (i in 1:length(lines)) {
-       cat(paste(lines[i], "\n"))
-     }
+for (i in 1:length(lines)) {
+  cat(paste(lines[i], "\n"))
 }
+
