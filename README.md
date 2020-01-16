@@ -1,6 +1,8 @@
 # DickinsonPoems
 Project Gutenberg version of Emily Dickinson's poems
 
+https://www.gutenberg.org/files/12242/12242-h/12242-h.htm
+
 ## Installation instructions
 Install via:
 
